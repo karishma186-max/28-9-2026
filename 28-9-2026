@@ -1,23 +1,23 @@
-#1. What is a Class?
+##1. What is a Class?
 A class is a blueprint or template used to create objects.
 It contains data (attributes) and functions (methods) that define the properties and behavior of objects.
 
-#2. What is an Object?
+##2. What is an Object?
 An object is an instance of a class.
 It is created using the class and can access the attributes and methods defined inside the class.
 
-#3. What is the self parameter?
+##3. What is the self parameter?
 self is a parameter that refers to the current object.
 It is used to access the attributes and methods of the current object.
 
-#4. What happens when you create an object?
+##4. What happens when you create an object?
 When an object is created:
   1.Memory is allocated for the object.
   2.The object gets the structure and properties defined by the class.
   3.The object can access the class methods and attributes.
   4.If an __init__() method is present, it is automatically executed.
 
-#5. What are the states of an object?
+##5. What are the states of an object?
 An object generally goes through three states:
   1.Creation State – The object is created.
   2.Active/Working State – The object is being used to perform operations.
